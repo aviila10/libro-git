@@ -1,0 +1,1 @@
+Git es un control de versiones ideado por Linus Torvalds
